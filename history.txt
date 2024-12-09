@@ -1,0 +1,16 @@
+   73  cp ../homewo5/css/_normalize.css fonts/
+   74  ../homewo5/index.html .
+   75  ../homewo5/index.h\ntml lesson8
+   76  ls ../homewo5
+   77  cp ../homewo5/index.html .
+   78  git init
+   79  git config user.name "Vladyslava"
+   80  git config user.email "vladislavalifar@gmail.com"
+   81  git add .
+   82  git commit -m "first commit"
+   83  git branch -M main
+   84  git remote add origin https://github.com/Vladyslavaly/homework.git
+   85  git push -u origin main
+   86  git add index.html\ngit commit -m "Added img to index.html"
+   87  git add css/style.css\ngit commit -m "Added color to style.css"
+   88  history
