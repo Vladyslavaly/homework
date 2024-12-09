@@ -127,6 +127,7 @@ body {
 
 .skill-item {
     text-align: center;
+    columns: red;
   }
 
 .icon-text {
